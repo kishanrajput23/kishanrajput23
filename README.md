@@ -22,4 +22,9 @@ C | C++ | Python |
 
 <a href = https://www.linkedin.com/in/kishan-kumar-rai-23112000><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a> • <a href = https://github.com/kishanrajput23><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a> • <a href = https://twitter.com/kishan_rajput23><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg height='30' weight='30'></a></p>
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=kishanrajput23&theme=light&show_icons=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kishanrajput23&layout=compact)
+
+
+
