@@ -10,7 +10,7 @@ A tech enthusiast with passion to solve problems and to make things. Proven skil
 
 - 🌱  I am currently looking to collaborate on python language based projects.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=kishanrajput23&theme=light&show_icons=true)<h4 align='center'>📫 Reach me on</h4>
+![Github stats](https://github-readme-stats.vercel.app/api?username=kishanrajput23 & theme=light&show_icons=true)<h4 align='center'>📫 Reach me on</h4>
 
 <p align='center'>
 
