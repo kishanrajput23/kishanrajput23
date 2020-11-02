@@ -1,6 +1,6 @@
 # Hi there, I'm Kishan Kumar Rai👋🏼👨🏻‍💻
 ### About me 🤓
-A tech enthusiast with passion to solve problems and to make things. Proven skills in python programming, with work experience in various self develop projects and technical teams and I believe that I am a versatile learner and can get going with any sort of work.
+A tech enthusiast with passion to solve problems and to make things. Proven skills in python programming, with work experience in various self developed projects and technical teams and I believe that I am a versatile learner and can get going with any sort of work.
 
 ### I'm currently
 
