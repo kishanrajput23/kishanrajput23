@@ -4,7 +4,7 @@ A tech enthusiast with passion to solve problems and to make things. Proven skil
 
 ### I'm currently
 
-- 💼 I am currently working Jarvis AI Desktop Voice Assistant.
+- 💼 I am currently working on Jarvis AI Desktop Voice Assistant.
 
 - ✍️ I am currently learning python and frontend web development.
 
