@@ -14,7 +14,7 @@ A tech enthusiast with passion to solve problems and to make things. Proven skil
 
  ### Stuff I'm really good at 
 
-C | C++ | Python | 
+C | C++ | Python | HTML | CSS |
 
 ---
 
