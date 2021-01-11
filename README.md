@@ -5,7 +5,6 @@
 A tech enthusiast with passion to solve problems and to make things. Proven skills in python programming, with work experience in various self developed projects and technical teams and I believe that I am a versatile learner and can get going with any sort of work.
 
 <img align="center" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="1000" height="400"/>
-
 ### I'm currently
 
 - 💼 I am currently working on Jarvis AI Desktop Voice Assistant.
