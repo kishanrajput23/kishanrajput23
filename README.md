@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **python language based projects.**
 
-- 📝 I write articles on [Medium](kishan-rai99693.medium.com)
+- 📝 I write articles on [Medium](https://kishan-rai99693.medium.com)
 
 - 💬 Ask me about **anything you want.**
 
