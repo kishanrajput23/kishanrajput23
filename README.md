@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Introduction To Artificial Intelligence](https://medium.com/@kishan-rai99693/introduction-to-artificial-intelligence-ab5caa846752?source=rss-798a94539838------2)
-- [Day 4 of 30 Days of Code at HackerRank](https://medium.com/@kishan-rai99693/day-4-of-30-days-of-code-at-hackerrank-abaa125bbb14?source=rss-798a94539838------2)
-- [Day 3 of 30 Days of Code at HackerRank](https://medium.com/@kishan-rai99693/day-3-of-30-days-of-code-at-hackerrank-1464a59d106b?source=rss-798a94539838------2)
-- [Day 2 of 30 Days of Code at HackerRank](https://medium.com/@kishan-rai99693/day-2-of-30-days-of-code-at-hackerrank-e2fa2d2912f2?source=rss-798a94539838------2)
+- [Introduction To Artificial Intelligence](https://kishan-rai99693.medium.com/introduction-to-artificial-intelligence-ab5caa846752?source=rss-798a94539838------2)
+- [Day 4 of 30 Days of Code at HackerRank](https://kishan-rai99693.medium.com/day-4-of-30-days-of-code-at-hackerrank-abaa125bbb14?source=rss-798a94539838------2)
+- [Day 3 of 30 Days of Code at HackerRank](https://kishan-rai99693.medium.com/day-3-of-30-days-of-code-at-hackerrank-1464a59d106b?source=rss-798a94539838------2)
+- [Day 2 of 30 Days of Code at HackerRank](https://kishan-rai99693.medium.com/day-2-of-30-days-of-code-at-hackerrank-e2fa2d2912f2?source=rss-798a94539838------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
