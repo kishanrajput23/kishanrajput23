@@ -39,7 +39,7 @@
 <a href="https://kishan-rai99693.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="https://kishan-rai99693.medium.com/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC8acpUOssbWJLYtdRFMxx1A" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="coder kishan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kishan_rai99693" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@kishan_rai99693" height="30" width="40" /></a>
-<a href="https://discord.gg/#4280" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="#4280" height="30" width="40" /></a>
+<a href="https://discord.gg/kishan_rajput23(P)#4280" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="#4280" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
