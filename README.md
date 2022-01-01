@@ -1,4 +1,4 @@
-<h1 align="center">Hello there!! 👋</h1>
+<h1 align="center">Hello Coders!! 👋</h1>
 
 ![twitter head](https://user-images.githubusercontent.com/70385488/147853861-a67c8643-ff0f-451c-943f-db4e5589e4ee.png)
 
@@ -23,7 +23,7 @@ I'm a Python Enthusiast🐍, a public speaker🎙 and a youtuber🎬. Apart from
 <p align="left"> <a href="https://twitter.com/kishan_rajput23" target="blank"><img src="https://img.shields.io/twitter/follow/kishan_rajput23?logo=twitter&style=for-the-badge" alt="kishan_rajput23" /></a> </p>
 
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif">
+  <img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 </a>
 
 - 🔭 I’m currently working on **Web Development**
@@ -41,6 +41,10 @@ I'm a Python Enthusiast🐍, a public speaker🎙 and a youtuber🎬. Apart from
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
 
 - ⚡ Fun fact **I think I'm funny😄**
+
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://i.pinimg.com/originals/d3/46/4a/d3464a4351fdf340ccb6bb37c281381a.gif">
+</a>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
