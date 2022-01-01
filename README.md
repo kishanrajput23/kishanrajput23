@@ -26,13 +26,13 @@ I'm a Python Enthusiast🐍, a public speaker🎙 and a youtuber🎬. Apart from
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif">
 </a>
 
-- 🔭 I’m currently working on **Web Development **
+- 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Data Structure & Algorithms**
 
 - 👯 I’m looking to collaborate on **Python Based Projects**
 
-- 📝 I write articles on [Medium](https://kishan-rai99693.medium.com)
+- 📝 I write articles on **[Medium](https://kishan-rai99693.medium.com)**
 
 - 💬 Ask me about **anything you want.**
 
@@ -84,3 +84,11 @@ I'm a Python Enthusiast🐍, a public speaker🎙 and a youtuber🎬. Apart from
 </p>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=kishanrajput23&theme=react-dark&hide_border=true&area=true)
+
+<div align="center">
+  
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+
+</div>
+
+![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/footer.png)
