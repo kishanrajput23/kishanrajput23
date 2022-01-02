@@ -72,9 +72,9 @@ I'm a Python Enthusiast🐍, a public speaker🎙 and a youtuber🎬. Apart from
 
 <p align="center">
   <a>
-    <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">
+    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishanrajput23&theme=dark&hide_border=true"/>
-    <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
+    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
   </a>
 </p>
 
@@ -90,9 +90,17 @@ I'm a Python Enthusiast🐍, a public speaker🎙 and a youtuber🎬. Apart from
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=kishanrajput23&theme=react-dark&hide_border=true&area=true)
 
 <div align="center">
+
+### Watch my contribution graph being eaten by a Snake! 🐍
+  
+</div>
+
+![snake gif](https://github.com/kishanrajput23/kishanrajput23/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
   
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
 </div>
 
-![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/footer.png)
+![footer](https://github.com/kishanrajput23/kishanrajput23/blob/main/images/footer.png)
