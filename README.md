@@ -42,10 +42,6 @@ I'm a Python Enthusiast🐍, a public speaker🎙 and a youtuber🎬. Apart from
 
 - ⚡ Fun fact **I think I'm funny😄**
 
-<a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://i.pinimg.com/originals/d3/46/4a/d3464a4351fdf340ccb6bb37c281381a.gif">
-</a>
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Top 5 Games That Help You To Learn Coding](https://kishan-rai99693.medium.com/top-5-games-that-help-you-to-learn-coding-f17f2b4efc61?source=rss-798a94539838------2)
