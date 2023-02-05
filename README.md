@@ -44,10 +44,10 @@ I'm a Python Enthusiast🐍, a public speaker🎙 and a youtuber🎬. Apart from
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [MLH Global Hack Week](https://kishan-rai99693.medium.com/mlh-global-hack-week-f26735cf8ba6?source=rss-798a94539838------2)
 - [Top 5 Games That Help You To Learn Coding](https://kishan-rai99693.medium.com/top-5-games-that-help-you-to-learn-coding-f17f2b4efc61?source=rss-798a94539838------2)
 - [50 Days of Consistency](https://kishan-rai99693.medium.com/50-days-of-consistency-d3400c208fb9?source=rss-798a94539838------2)
 - [Introduction To Artificial Intelligence](https://kishan-rai99693.medium.com/introduction-to-artificial-intelligence-ab5caa846752?source=rss-798a94539838------2)
-- [Day 4 of 30 Days of Code at HackerRank](https://kishan-rai99693.medium.com/day-4-of-30-days-of-code-at-hackerrank-abaa125bbb14?source=rss-798a94539838------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
