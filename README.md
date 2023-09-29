@@ -11,11 +11,6 @@ I'm a Python Enthusiast🐍, a public speaker🎙 and a youtuber🎬. Apart from
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/kishanrajput23?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/kishanrajput23?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
-<!-- <p align="center">
-  <code>
-    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2Fkishanrajput23" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
-  </code>
-</p> -->
 
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=kishanrajput23&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/kishanrajput23)
@@ -41,6 +36,10 @@ I'm a Python Enthusiast🐍, a public speaker🎙 and a youtuber🎬. Apart from
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
 
 - ⚡ Fun fact **I think I'm funny😄**
+
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://ansarshome.files.wordpress.com/2021/09/d3464a4351fdf340ccb6bb37c281381a.gif">
+</a>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -86,19 +85,7 @@ I'm a Python Enthusiast🐍, a public speaker🎙 and a youtuber🎬. Apart from
   </a>
 </p>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=kishanrajput23&theme=react-dark&hide_border=true&area=true)
-
 <div align="center">
-
-### Watch my contribution graph being eaten by a Snake! 🐍
-  
-</div>
-
-![snake gif](https://github.com/kishanrajput23/kishanrajput23/blob/output/github-contribution-grid-snake.svg)
-
-<div align="center">
-
-[![@kishanrajput23's Holopin board](https://holopin.me/kishanrajput23)](https://holopin.io/@kishanrajput23)
   
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
