@@ -15,7 +15,7 @@ I'm a Python Enthusiast🐍, a public speaker🎙 and a youtuber🎬. Apart from
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=kishanrajput23&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/kishanrajput23)
 
-<p align="left"> <a href="https://twitter.com/kishan_rajput23" target="blank"><img src="https://img.shields.io/twitter/follow/kishan_rajput23?logo=twitter&style=for-the-badge" alt="kishan_rajput23" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kishan_rajput23" target="blank"><img src="https://img.shields.io/badge/Follow%20@kishan__rajput23-000000?style=for-the-badge&logo=x&logoColor=white" alt="kishan_rajput23" /></a> </p>
 
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif">
