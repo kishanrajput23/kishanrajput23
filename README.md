@@ -15,27 +15,25 @@ I'm a Python Enthusiast🐍, a public speaker🎙 and a youtuber🎬. Apart from
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=kishanrajput23&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/kishanrajput23)
 
-<p align="left"> <a href="https://twitter.com/kishan_rajput23" target="blank"><img src="https://img.shields.io/badge/Follow%20@kishan__rajput23-000000?style=for-the-badge&logo=x&logoColor=white" alt="kishan_rajput23" /></a> </p>
-
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif">
 </a>
 
-- 🔭 I’m currently working on my **Logic Building Skill**
+- 🔭 I’m currently improving my **problem-solving & logic building skills**
 
 - 🌱 I’m currently learning **Data Structure & Algorithms**
 
-- 👯 I’m looking to collaborate on **Development Based Projects**
+- 👯 I’m looking to collaborate on **development-focused projects**
 
-- 📝 I write articles on **[Medium](https://kishan-rai99693.medium.com)**
+- 📝 I write technical blogs on **[Medium](https://kishan-rai99693.medium.com)**
 
-- 💬 Ask me about **anything you want.**
+- 💬 Happy to discuss about **coding, projects, or learning paths**
 
-- 📫 How to reach me **kishan.rai99693@gmail.com**
+- 📫 Reach me at **kishan.rai99693@gmail.com**
 
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
 
-- ⚡ Fun fact **I think I'm funny😄**
+- ⚡ Fun fact **I enjoy explaining complex things in simple ways**
 
 <a target="_blank">
   <img align="right" height="200" width="400" alt="GIF" src="https://ansarshome.files.wordpress.com/2021/09/d3464a4351fdf340ccb6bb37c281381a.gif">
