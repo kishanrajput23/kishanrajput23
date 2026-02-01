@@ -68,14 +68,11 @@ I'm a Python Enthusiast🐍, a public speaker🎙 and a youtuber🎬. Apart from
 
 
 <p align="center">
-  <div style="display:flex; align-items:center; justify-content:center; gap:12px;">
-    <img height="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png"/>
-    <img height="194"
-         src="https://github-streak-stats-ruby.vercel.app/?user=kishanrajput23&theme=radical"
-         alt="GitHub Streak"/>
-    <img height="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png"/>
-  </div>
+  <img height="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png"/>
+  <img height="194" src="https://github-streak-stats-ruby.vercel.app/?user=kishanrajput23&theme=radical"/>
+  <img height="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png"/>
 </p>
+
 
 
 <p align="center">
