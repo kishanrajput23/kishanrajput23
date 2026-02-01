@@ -2,9 +2,13 @@
 
 ![twitter head](https://user-images.githubusercontent.com/70385488/147853861-a67c8643-ff0f-451c-943f-db4e5589e4ee.png)
 
-<h3 align="center">I'm Kishan🙋‍♂️, a full time employee in Wipro with a great passion for programming, a tech enthusiast with passion to solve problems and to make things.
-I'm a Python Enthusiast🐍, a public speaker🎙 and a youtuber🎬. Apart from coding I always enjoy meeting new people and hearing about their perspectives about how different things work 🤓. Please don’t hesitate to reach out if you want to share thoughts about emerging tech or anything else.</h3>
+## 👨‍💻 About Me
 
+Hi, I'm Kishan 👋  
+- A Software Engineer at **Wipro 💼**, passionate about building real-world tech solutions and solving complex problems 🧩  
+- I work across **Python, C++, and Embedded/Qt systems ⚙️**, and love turning ideas into practical products 🚀  
+- Beyond coding, I enjoy **sharing knowledge 🎙️**, creating content, and collaborating with fellow developers 🤝  
+- Always open to meaningful conversations around tech, learning, and innovation ✨
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kishanrajput23&label=Profile%20views&color=0e75b6&style=flat" alt="kishanrajput23" /> • 
@@ -19,7 +23,7 @@ I'm a Python Enthusiast🐍, a public speaker🎙 and a youtuber🎬. Apart from
   <img align="right" height="250" width="400" alt="GIF" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif">
 </a>
 
-- 🔭 I’m currently improving my **problem-solving & logic building skills**
+- 🔭 I’m currently improving my **problem-solving skills**
 
 - 🌱 I’m currently learning **Data Structure & Algorithms**
 
