@@ -45,10 +45,10 @@ Hi, I'm Kishan 👋
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [CodeHub Sync: I Built a Chrome Extension to Automatically Sync LeetCode, GFG &amp; HackerRank Solutions…](https://kishan-rai99693.medium.com/codehub-sync-i-built-a-chrome-extension-to-automatically-sync-leetcode-gfg-hackerrank-solutions-51b874897040?source=rss-798a94539838------2)
 - [MLH Global Hack Week](https://kishan-rai99693.medium.com/mlh-global-hack-week-f26735cf8ba6?source=rss-798a94539838------2)
 - [Top 5 Games That Help You To Learn Coding](https://kishan-rai99693.medium.com/top-5-games-that-help-you-to-learn-coding-f17f2b4efc61?source=rss-798a94539838------2)
 - [50 Days of Consistency](https://kishan-rai99693.medium.com/50-days-of-consistency-d3400c208fb9?source=rss-798a94539838------2)
-- [Introduction To Artificial Intelligence](https://kishan-rai99693.medium.com/introduction-to-artificial-intelligence-ab5caa846752?source=rss-798a94539838------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
