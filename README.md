@@ -1,6 +1,6 @@
 <h1 align="center">Hello Coders!! 👋</h1>
 
-![twitter head](https://user-images.githubusercontent.com/70385488/147853861-a67c8643-ff0f-451c-943f-db4e5589e4ee.png)
+<img width="2172" height="724" alt="github_banner" src="https://github.com/user-attachments/assets/dca441e6-6d37-44ac-a632-1e5e1a70e631" />
 
 ## 👨‍💻 About Me
 
